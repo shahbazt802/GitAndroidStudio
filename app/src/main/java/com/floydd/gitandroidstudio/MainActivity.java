@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.i("Tag","First commit changes ");
         Log.i("Tag","second commiting");
+        Log.i("Tag","Third commit");
+
 
     }
 
