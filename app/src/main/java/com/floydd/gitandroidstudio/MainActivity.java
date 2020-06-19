@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("Tag","First commit changes ");
         Log.i("Tag","second commiting");
         Log.i("Tag","Third commit");
+        Log.i("Tag","fourth commit");
 
 
     }
